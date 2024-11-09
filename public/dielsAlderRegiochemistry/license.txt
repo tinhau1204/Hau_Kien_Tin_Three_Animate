@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diels Alder Regiochemistry
+* source:	https://sketchfab.com/3d-models/diels-alder-regiochemistry-ff52317f0a5a4a0a945086fb3d1fe5a8
+* author:	Chemistry in 3D (https://sketchfab.com/chem3d)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diels Alder Regiochemistry" (https://sketchfab.com/3d-models/diels-alder-regiochemistry-ff52317f0a5a4a0a945086fb3d1fe5a8) by Chemistry in 3D (https://sketchfab.com/chem3d) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

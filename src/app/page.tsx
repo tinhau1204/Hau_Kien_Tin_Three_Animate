@@ -1,0 +1,19 @@
+// import Image from "next/image";
+"use client"
+import styles from "./page.module.css";
+import dynamic from 'next/dynamic';
+
+//render dynamic component
+const Scene = dynamic(() => import('@/components/scene').then(
+  module => module.Scene
+), {
+  ssr: false,
+});
+
+export default function Home() {
+  return (
+    <main className={styles.main}>
+      <Scene />
+    </main>
+  );
+}
