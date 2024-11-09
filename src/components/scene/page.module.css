@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 4px;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.scence {
+        flex: 1;
+        /* Take up remaining space */
+        min-width: 0;
+        /* Allows for resizing without overflow */
+        height: 100vh;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    background-color: #ddd;
+    color: black;
+}
+
+.panel {
+    color: black;
+}
+
+.modalPanel {
+    position: absolute;
+    top: 8px;
+    right: 0;
+    width: 320px; /* Adjust width as needed */
+    height: 100vh;
+    background: white;
+    z-index: 10; /* Ensure this is higher than the canvas */
+    padding: 16px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    align-self: center;
+  }
